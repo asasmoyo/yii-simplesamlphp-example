@@ -1,0 +1,317 @@
+2014/12/14 06:19:30 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(40): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(40): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:56 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:57 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:57 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:58 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:58 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:20:58 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(39): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:29:05 [error] [exception.CException] exception 'CException' with message 'LoginSSOAction and its behaviors do not have a method or closure named "simplesamlphpInstance".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(40): CComponent->__call('simplesamlphpIn...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LoginSSOAction.php(40): LoginSSOAction->simplesamlphpInstance()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LoginSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LoginSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LoginSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/login
+---
+2014/12/14 06:30:00 [error] [exception.CException] exception 'CException' with message 'LogoutSSOAction and its behaviors do not have a method or closure named "setRootPathOfAlias".' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__call('setRootPathOfAl...', Array)
+#1 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): LogoutSSOAction->setRootPathOfAlias()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#8 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:30:18 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:26 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:26 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:27 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:27 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:27 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:31:27 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:32:06 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(39): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:33:19 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:33:20 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:33:20 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:33:21 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
+2014/12/14 06:33:21 [error] [exception.CException] exception 'CException' with message 'Property "LogoutSSOAction.simplesamphpInstance" is not defined.' in /code/latihan/simplesamlphp-example/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /code/latihan/simplesamlphp-example/app/protected/extensions/yii-simplesamlphp/actions/LogoutSSOAction.php(37): CComponent->__get('simplesamphpIns...')
+#1 /code/latihan/simplesamlphp-example/yii/framework/web/actions/CAction.php(76): LogoutSSOAction->run()
+#2 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(308): CAction->runWithParams(Array)
+#3 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(286): CController->runAction(Object(LogoutSSOAction))
+#4 /code/latihan/simplesamlphp-example/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(LogoutSSOAction), Array)
+#5 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(282): CController->run('logout')
+#6 /code/latihan/simplesamlphp-example/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/logout')
+#7 /code/latihan/simplesamlphp-example/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /code/latihan/simplesamlphp-example/app/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php?r=site/logout
+---
